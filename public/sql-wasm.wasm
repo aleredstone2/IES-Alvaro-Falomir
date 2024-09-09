@@ -1,0 +1,15 @@
+const initDb = async () => {
+  try {
+    const SQL = await import("sql.js"); // Importar dinámicamente sql.js
+    const sqlPromise = await SQL({
+      locateFile: (file) => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.7.0/sql-wasm.wasm`,
+    });
+    const database = new sqlPromise.Database(); // Crear una base de datos en memoria
+    setDb(database);
+    setDbInitialized(true); // Marcar la base de datos como inicializada
+    console.log("Base de datos SQLite inicializada.");
+  } catch (e) {
+    console.error("Error al inicializar SQLite:", e);
+    setError("Error al inicializar SQLite: " + e.message);
+  }
+};

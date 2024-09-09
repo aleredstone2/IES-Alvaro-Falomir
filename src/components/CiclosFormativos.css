@@ -1,0 +1,124 @@
+/* Estilos globales */
+body {
+    font-family: 'Open Sans', Arial, sans-serif; 
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9; 
+  }
+  
+  /* Contenedor principal para cursos y enlaces */
+  .ciclos-y-enlaces {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px; 
+    padding: 20px;
+    background-color: #fff; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+  }
+  
+  
+  .cursos {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .ciclo {
+    margin-bottom: 40px; 
+  }
+  
+  .ciclo h2 {
+    font-size: 1.8rem;
+    color: #2c3e50; 
+    margin-bottom: 15px;
+    border-bottom: 2px solid #3498db; 
+    padding-bottom: 5px;
+  }
+  
+  .ciclo p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+    line-height: 1.8;
+  }
+  
+  .ciclo ul {
+    padding-left: 20px;
+  }
+  
+  .ciclo ul li {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 8px;
+    list-style-type: disc;
+  }
+  
+  /* Sección de Enllaços d'interès */
+  .enlaces-interes {
+    flex-basis: 300px;
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+    margin-top: 40px; 
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .enlaces-interes h2 {
+    font-size: 1.5rem;
+    color: #34495e;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+  }
+  
+  .enlaces-interes figure {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .enlaces-interes img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .enlaces-interes img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .enlaces-interes figcaption {
+    font-size: 0.9rem;
+    color: #e74c3c; 
+    margin-top: 5px;
+  }
+  
+  /* Botones y enlaces */
+  a {
+    text-decoration: none;
+    color: #3498db; 
+  }
+  
+  a:hover {
+    color: #2980b9; 
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  

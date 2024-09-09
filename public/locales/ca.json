@@ -1,0 +1,99 @@
+{
+  "enlaces_interes.title": "Enllaços de Interés",
+  "Cursos de Formación Profesional": "Cursos de Formació Professional",
+  "Descubre nuestra oferta educativa...": "Descobreix la nostra oferta educativa en Formació Professional amb cursos especialitzats per a preparar-te en àrees com la informàtica, comunicacions entre altres.",
+  "Eventos y Actividades": "Esdeveniments i Activitats",
+  "Mantente al día con nuestros eventos...": "Mantente al dia amb els nostres esdeveniments i activitats, des de conferències i seminaris fins a jornades culturals i esportives.",
+  "Ver más": "Veure més",
+  "Herramientas y Recursos": "Ferramentes i Recursos",
+  "Aqui se encuentran las herramientas de programación": "Aquí trobareu eines i recursos proporcionats per la pàgina per a la pràctica i l'ajuda per als alumnes relacionades amb el món de la programació.",
+
+  "titulo sqlite": "SQLite en Web",
+  "titulo netbeans": "Netbeans en Web",
+  "descripcion sqlite": "Aquesta eina facilita la gestió de bases de dades SQLite des del web.",
+  "descripcion netbeans": "Això permet desenvolupar aplicacions en Java utilitzant Netbeans directament des del navegador.",
+
+  "Netbeans en Web": "Netbeans en Web",
+  "Instrucciones de uso": "Instruccions d'ús",
+  "Escribe tu código Java en el editor": "Escriu el teu codi Java en l'editor.",
+  "Haz clic en el botón Run para ejecutar el código": "Fes clic en el botó 'Run' per a executar el codi.",
+  "Durante la ejecución, puedes introducir datos": "Durant l'execució, pots introduir dades en l'àrea d'entrada.",
+  "Utiliza el botón Enviar para enviar datos": "Utilitza el botó 'Enviar' per a enviar dades d'entrada durant l'execució.",
+  "Para detener la ejecución del programa, usa STOP": "Per a detenir l'execució del programa, utilitza el botó 'STOP'.",
+  "Recuerda que esto no es un IDE real": "Recorda que això no és un IDE real, els arxius sobre els quals treballes són Main.class i Main.java.",
+  "Ejecutar": "Executar",
+  "Ejecución detenida por el usuario": "Execució detinguda per l'usuari",
+  "Enviar": "Enviar",
+  "Entrada de datos": "Eixida de dades",
+
+  "title": "Cicles Formatius d'Informàtica",
+  "ciclos": {
+    "sistemas_informaticos": {
+      "title": "Sistemes Informàtics i Xarxes (Grau Mitjà)",
+      "description": "Aquest cicle formatiu se centra en els coneixements necessaris per instal·lar, configurar i mantenir sistemes informàtics en xarxa. Els estudiants aprendran a gestionar infraestructures de xarxes locals, implementar i gestionar sistemes operatius, així com la seguretat de la informació.",
+      "subjects_title": "Matèries Principals",
+      "jobs_title": "Sortides professionals",
+      "subjects": [
+        "Muntatge i manteniment d'equips",
+        "Xarxes locals",
+        "Aplicacions ofimàtiques",
+        "Sistemes operatius",
+        "Seguretat informàtica",
+        "Serveis de xarxa i internet"
+      ],
+      "jobs": [
+        "Tècnic de suport informàtic",
+        "Administrador de xarxes",
+        "Tècnic de manteniment de sistemes"
+      ]
+    },
+    "desarrollo_multiplataforma": {
+      "title": "Desenvolupament d'Aplicacions Multiplataforma (Grau Superior)",
+      "description": "Aquest cicle se centra en el desenvolupament d'aplicacions per a diferents dispositius i plataformes (ordinadors, mòbils, tauletes). Els estudiants adquireixen habilitats per desenvolupar aplicacions sòlides, segures i ben estructurades, utilitzant diversos llenguatges de programació i eines.",
+      "subjects_title": "Matèries Principals",
+      "jobs_title": "Sortides professionals",
+      "subjects": [
+        "Programació",
+        "Desenvolupament d'interfícies",
+        "Accés a dades",
+        "Sistemes informàtics",
+        "Programació multimèdia i dispositius mòbils",
+        "Gestió de bases de dades"
+      ],
+      "jobs": [
+        "Desenvolupador d'aplicacions mòbils",
+        "Desenvolupador de programari multiplataforma",
+        "Analista de sistemes"
+      ]
+    },
+    "desarrollo_web": {
+      "title": "Desenvolupament d'Aplicacions Web (Grau Superior)",
+      "description": "En aquest cicle es forma als estudiants per al desenvolupament d'aplicacions web dinàmiques i segures. Es treballen tecnologies com HTML, CSS, JavaScript, frameworks moderns, i s'aborden aspectes clau com la seguretat i l'accessibilitat.",
+      "subjects_title": "Matèries Principals",
+      "jobs_title": "Sortides professionals",
+      "subjects": [
+        "Programació",
+        "Desenvolupament web en entorn client",
+        "Desenvolupament web en entorn servidor",
+        "Desplegament d'aplicacions web",
+        "Disseny d'interfícies web",
+        "Accés a bases de dades"
+      ],
+      "jobs": [
+        "Desenvolupador web",
+        "Administrador de sistemes web",
+        "Consultor de desenvolupament web"
+      ]
+    }
+  },
+  "hackathon_title": "Hackathon Internacional 2024",
+  "hackathon_description": "El Hackathon Internacional 2024 és una competició global de 48 hores on programadors, dissenyadors i emprenedors de tot el món es reuneixen per treballar en solucions innovadores als reptes més apressants del món real. Durant aquest esdeveniment, els participants col·laboren en equips per desenvolupar aplicacions, eines o tecnologies que aborden problemes en àrees com la salut, el medi ambient, la mobilitat i molt més. És una oportunitat excepcional per aprendre, fer contactes amb experts de la indústria i competir per premis i reconeixement internacional.",
+  "hackathon_link": "Visitar lloc oficial",
+
+  "deepracing_title": "DeepRacing: Competició de Curses Autònomes",
+  "deepracing_description": "DeepRacing és una competició pionera en el món de la intel·ligència artificial i l'autonomia dels vehicles. Els equips participants han de dissenyar, programar i entrenar vehicles autònoms capaços de competir en circuits de curses reals, prenent decisions en temps real gràcies a algorismes de machine learning i visió per computador. A més de la velocitat, la precisió i l'eficiència dels vehicles en el seguiment del trajecte són claus per guanyar. Aquesta competició posa a prova els límits de la IA en el món de l'automoció i la robòtica.",
+  "deepracing_link": "Visitar lloc oficial",
+
+  "school_description": "Institut d'Almassora d'ESO, Batxillerat i Cicles Formatius",
+  "mapa.title": "On estem..."
+}

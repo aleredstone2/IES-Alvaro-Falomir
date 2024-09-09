@@ -1,0 +1,40 @@
+/* Estilos generales de la aplicación */
+.app-container {
+  position: relative; /* Importante para que las banderas se posicionen respecto a este contenedor */
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-top: 60px; /* Espacio para las banderas */
+}
+
+.flags-container {
+  position: absolute; /* Esto asegura que las banderas se alineen respecto al contenedor */
+  top: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: flex-end; /* Asegura que las banderas estén alineadas horizontalmente a la derecha */
+  padding: 10px;
+}
+
+.flags-container img {
+  width: 32px;
+  height: auto;
+  cursor: pointer;
+  margin-left: 10px; /* Añade espacio entre las banderas */
+}
+
+
+@media (max-width: 768px) {
+  .flags-container img {
+    width: 24px; /* Redimensionar las banderas en pantallas pequeñas */
+  }
+}

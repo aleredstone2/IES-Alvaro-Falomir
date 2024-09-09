@@ -1,0 +1,100 @@
+{
+  "enlaces_interes.title": "Enlaces de Interés",
+  "Cursos de Formación Profesional": "Cursos de Formación Profesional",
+  "Descubre nuestra oferta educativa...": "Descubre nuestra oferta educativa en Formación Profesional con cursos especializados para prepararte en áreas como la informática, comunicaciones entre otras.",
+  "Eventos y Actividades": "Eventos y Actividades",
+  "Mantente al día con nuestros eventos...": "Mantente al día con nuestros eventos y actividades, desde conferencias y seminarios hasta jornadas culturales y deportivas.",
+  "Ver más": "Ver más",
+  "Herramientas y Recursos": "Herramientas y Recursos",
+  "Aqui se encuentran las herramientas de programación": "Aquí se encuentran las herramientas y recursos proporcionados por la página para la práctica y la ayuda para los estudiantes relacionadas con el mundo de la programación.",
+  
+  "titulo sqlite": "SQLite en Web",
+  "titulo netbeans": "Netbeans en Web",
+  "descripcion sqlite": "Esta herramienta facilita la gestión de bases de datos SQLite desde la web.",
+  "descripcion netbeans": "Esto permite desarrollar aplicaciones en Java utilizando Netbeans directamente desde el navegador.",
+
+  "Netbeans en Web": "Netbeans en Web",
+  "Instrucciones de uso": "Instrucciones de uso",
+  "Escribe tu código Java en el editor": "Escribe tu código Java en el editor.",
+  "Haz clic en el botón Run para ejecutar el código": "Haz clic en el botón 'Run' para ejecutar el código.",
+  "Durante la ejecución, puedes introducir datos": "Durante la ejecución, puedes introducir datos en el área de entrada.",
+  "Utiliza el botón Enviar para enviar datos": "Utiliza el botón 'Enviar' para enviar datos de entrada durante la ejecución.",
+  "Para detener la ejecución del programa, usa STOP": "Para detener la ejecución del programa, usa el botón 'STOP'.",
+  "Recuerda que esto no es un IDE real": "Recuerda que esto no es un IDE real, los archivos con los que trabajas son Main.class y Main.java.",
+  "Ejecutar": "Ejecutar",
+  "Ejecución detenida por el usuario": "Ejecución detenida por el usuario",
+  "Enviar": "Enviar",
+  "Entrada de datos": "Entrada de datos",
+
+  "title": "Ciclos Formativos de Informática",
+  "ciclos": {
+    "sistemas_informaticos": {
+      "title": "Sistemas Informáticos y Redes (Grado Medio)",
+      "description": "Este ciclo formativo se centra en los conocimientos necesarios para instalar, configurar y mantener sistemas informáticos en red. Los estudiantes aprenderán a gestionar infraestructuras de redes locales, implementar y gestionar sistemas operativos, así como la seguridad de la información.",
+      "subjects_title": "Principales Materias",
+      "jobs_title": "Salidas profesionales",
+      "subjects": [
+        "Montaje y mantenimiento de equipos",
+        "Redes locales",
+        "Aplicaciones ofimáticas",
+        "Sistemas operativos",
+        "Seguridad informática",
+        "Servicios de red e internet"
+      ],
+      "jobs": [
+        "Técnico de soporte informático",
+        "Administrador de redes",
+        "Técnico de mantenimiento de sistemas"
+      ]
+    },
+    "desarrollo_multiplataforma": {
+      "title": "Desarrollo de Aplicaciones Multiplataforma (Grado Superior)",
+      "description": "Este ciclo se enfoca en el desarrollo de aplicaciones para diferentes dispositivos y plataformas (ordenadores, móviles, tablets). Los estudiantes adquieren habilidades para desarrollar aplicaciones sólidas, seguras y bien estructuradas, utilizando diversos lenguajes de programación y herramientas.",
+      "subjects_title": "Principales Materias",
+      "jobs_title": "Salidas profesionales",
+      "subjects": [
+        "Programación",
+        "Desarrollo de interfaces",
+        "Acceso a datos",
+        "Sistemas informáticos",
+        "Programación multimedia y dispositivos móviles",
+        "Gestión de bases de datos"
+      ],
+      "jobs": [
+        "Desarrollador de aplicaciones móviles",
+        "Desarrollador de software multiplataforma",
+        "Analista de sistemas"
+      ]
+    },
+    "desarrollo_web": {
+      "title": "Desarrollo de Aplicaciones Web (Grado Superior)",
+      "description": "En este ciclo se forma a los estudiantes para el desarrollo de aplicaciones web dinámicas y seguras. Se trabajan tecnologías como HTML, CSS, JavaScript, frameworks modernos, y se abordan aspectos clave como la seguridad y la accesibilidad.",
+      "subjects_title": "Principales Materias",
+      "jobs_title": "Salidas profesionales",
+      "subjects": [
+        "Programación",
+        "Desarrollo web en entorno cliente",
+        "Desarrollo web en entorno servidor",
+        "Despliegue de aplicaciones web",
+        "Diseño de interfaces web",
+        "Acceso a bases de datos"
+      ],
+      "jobs": [
+        "Desarrollador web",
+        "Administrador de sistemas web",
+        "Consultor de desarrollo web"
+      ]
+    }
+  },
+
+  "hackathon_title": "Hackathon Internacional 2024",
+  "hackathon_description": "El Hackathon Internacional 2024 es una competencia global de 48 horas donde programadores, diseñadores y emprendedores de todo el mundo se reúnen para trabajar en soluciones innovadoras a los desafíos más urgentes del mundo real. Durante este evento, los participantes colaboran en equipos para desarrollar aplicaciones, herramientas o tecnologías que abordan problemas en áreas como la salud, el medio ambiente, la movilidad y más. Es una oportunidad excepcional para aprender, conectar con expertos de la industria y competir por premios y reconocimiento internacional.",
+  "hackathon_link": "Visitar sitio oficial",
+
+  "deepracing_title": "DeepRacing: Competencia de Carreras Autónomas",
+  "deepracing_description": "DeepRacing es una competencia pionera en el mundo de la inteligencia artificial y la autonomía vehicular. Los equipos participantes deben diseñar, programar y entrenar vehículos autónomos capaces de competir en circuitos de carreras reales, tomando decisiones en tiempo real gracias a algoritmos de machine learning y visión por computadora. Además de la velocidad, la precisión y la eficiencia de los vehículos en seguir el recorrido son claves para ganar. Esta competencia pone a prueba los límites de la IA en el mundo de la automoción y la robótica.",
+  "deepracing_link": "Visitar sitio oficial",
+
+  "school_description": "Instituto de Almassora de ESO, Bachillerato y Ciclos Formativos",
+  "mapa.title": "Donde estamos..."
+}
