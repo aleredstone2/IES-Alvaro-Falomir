@@ -125,7 +125,7 @@ public class Main {
           ref={inputRef}
           className="input-textarea"
           disabled={!isRunning}
-          placeholder={t('Entrada de datos')}
+          placeholder={t('Salida de datos')}
           rows="5"
           cols="50"
         />
