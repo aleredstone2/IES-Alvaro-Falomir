@@ -119,7 +119,7 @@ const EnlacesInteres = () => (
   </div>
 );
 
-const CiclosFormativosConEnlaces = () => {
+const CiclosFormativosConEnlaces = () => {  
   const { t } = useTranslation();
 
   return (
